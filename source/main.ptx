@@ -6,7 +6,7 @@
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
   <book>
-    <title>MTH 204:  Linear Algebra I</title>
+    <title>MTH 204:  Linear Algebra</title>
 
     <subtitle>MATH xxx Semester 20xx</subtitle>
 
